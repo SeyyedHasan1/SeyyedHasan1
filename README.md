@@ -1,16 +1,45 @@
-## Hi there 👋
 
-<!--
-**SeyyedHasan1/SeyyedHasan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:312E81,100:0891B2&height=180&section=header&text=Mathematics%20%26%20Dynamics&fontSize=32&fontColor=E6F1FF&animation=fadeIn&fontAlignY=38" width="100%" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>
+  <code>Pure Mathematics</code> ·
+  <code>Dynamical Systems</code>
+</h3>
+
+<p>
+  <em>Exploring nonlinear dynamics, topology,
+  bifurcation theory, and the beauty of mathematics.</em>
+</p>
+
+</div>
+
+---
+
+### <span style="color:#58A6FF">About Me</span>
+
+- 🎓 Pure Mathematics Student
+- 🌀 Interested in Dynamical Systems & Chaos
+- 📐 Exploring Topology and Bifurcation Theory
+- 💻 Learning Python for mathematical modeling
+
+### <span style="color:#A78BFA">Research Interests</span>
+
+`Dynamical Systems` `Topology` `Nonlinear ODEs`
+`Bifurcation Theory` `Chaos Theory`
+
+### <span style="color:#22D3EE">Mathematical Mindset</span>
+
+<p align="center">
+  <code>dx/dt = f(x, μ)</code>
+  <br/>
+  <em>Small parameter changes, fascinating dynamics.</em>
+</p>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SeyyedHasan1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" />
+
+</div>
+
