@@ -1,8 +1,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:312E81,100:0891B2&height=180&section=header&text=Mathematics%20%26%20Dynamics&fontSize=32&fontColor=E6F1FF&animation=fadeIn&fontAlignY=38" width="100%" />
-
+<img src="./banner.svg"
+  width="100%"
+       alt="Mathematics and Dynamical Systems Banner">
+</div>
 <h3>
   <code>Pure Mathematics</code> ·
   <code>Dynamical Systems</code>
